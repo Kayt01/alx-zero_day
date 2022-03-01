@@ -1,2 +1,2 @@
-My first read me
-Collaboration is key
+My first read me.
+Collaboration is key.
